@@ -4,7 +4,7 @@ import 'package:drawer_widget/pages/page2.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
-//this is my custom drawer class
+//this is my custom drawer classgit
   @override
   Widget build(BuildContext context) {
     return Scaffold(
